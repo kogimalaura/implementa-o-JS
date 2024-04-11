@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+body{
+    background-color: black;
+    color: rgb(9, 223, 38);
+    font-family: "Titan One", sans-serif;
+    text-align: center;
+}
+h1{
+    font-family: "Bungee Spice", sans-serif;
+    
+}
+span{
+    font-family: "Titan One", sans-serif;
+}
+
+#dias_restantes{
+    color: rgb(144, 255, 33);
+    font-size: 50px;
+}
